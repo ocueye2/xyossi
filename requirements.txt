@@ -1,0 +1,4 @@
+pygame
+struct
+PyOpenGL
+Pillow
